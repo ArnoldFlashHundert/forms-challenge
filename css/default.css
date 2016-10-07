@@ -1,0 +1,52 @@
+body{
+	font-size: 32px;
+}
+#labelName{
+	display: inline-block;
+	float: left;
+	font-size: 32px;
+}
+#userName{
+	display: inline-block;
+	float: left;
+	margin-left: 10px;
+	font-size: 28px;
+	text-align: center;
+}
+#labelMail{
+	display: inline-block;
+	float: left;
+	margin-left: 63px;
+	font-size: 32px;
+}
+#email{
+	display: inline-block;
+	float: left;
+	margin-left: 10px;
+	font-size: 28px;
+	text-align: center;
+}
+#labelPswd{
+	display: inline-block;
+	float: left;
+	margin-left: 23px;
+	font-size: 32px;
+}
+#password{
+	display: inline-block;
+	float: left;
+	margin-left: 10px;
+	font-size: 28px;
+	text-align: center;
+}
+#submit{
+	font-size: 28px;
+	margin-left: 260px;
+}
+#styling{
+	text-align: center;
+	text-decoration: underline;
+}
+
+
+
